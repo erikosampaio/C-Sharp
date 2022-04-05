@@ -1,0 +1,16 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\bin\Debug\Enumerates.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\bin\Debug\Enumerates.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\bin\Debug\Enumerates.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\obj\Debug\Enumerates.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\obj\Debug\Enumerates.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\obj\Debug\Enumerates.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\obj\Debug\Enumerates.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\Enumerates\Enumerates\obj\Debug\Enumerates.pdb
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\bin\Debug\Enumerates.exe.config
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\bin\Debug\Enumerates.exe
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\bin\Debug\Enumerates.pdb
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\obj\Debug\Enumerates.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\obj\Debug\Enumerates.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\obj\Debug\Enumerates.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\obj\Debug\Enumerates.exe
+D:\Users\Sampaio\ws-vs2022\C#\Lessions\Enumerates\obj\Debug\Enumerates.pdb

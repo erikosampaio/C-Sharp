@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\bin\Debug\ListEmployee.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\bin\Debug\ListEmployee.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\bin\Debug\ListEmployee.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\obj\Debug\ListEmployee.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\obj\Debug\ListEmployee.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\obj\Debug\ListEmployee.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\obj\Debug\ListEmployee.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\List\ListEmployee\ListEmployee\obj\Debug\ListEmployee.pdb

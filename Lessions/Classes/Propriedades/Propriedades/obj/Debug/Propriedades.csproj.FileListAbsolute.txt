@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\bin\Debug\Propriedades.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\bin\Debug\Propriedades.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\bin\Debug\Propriedades.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\obj\Debug\Propriedades.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\obj\Debug\Propriedades.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Propriedades\Propriedades\obj\Debug\Propriedades.pdb

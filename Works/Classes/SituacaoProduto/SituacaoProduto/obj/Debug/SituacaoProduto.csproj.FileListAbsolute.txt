@@ -1,0 +1,16 @@
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.exe.config
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.exe
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.pdb
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.exe
+D:\Users\Sampaio\ws-vs2022\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\bin\Debug\SituacaoProduto.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoProduto\SituacaoProduto\obj\Debug\SituacaoProduto.pdb

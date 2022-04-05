@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\obj\Debug\FunctionsCSharp.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\obj\Debug\FunctionsCSharp.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\obj\Debug\FunctionsCSharp.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\bin\Debug\FunctionsCSharp.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\bin\Debug\FunctionsCSharp.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\bin\Debug\FunctionsCSharp.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\obj\Debug\FunctionsCSharp.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\FunctionsCSharp\FunctionsCSharp\obj\Debug\FunctionsCSharp.pdb

@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\bin\Debug\TesteComProprerties.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\bin\Debug\TesteComProprerties.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\bin\Debug\TesteComProprerties.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\obj\Debug\TesteComProprerties.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\obj\Debug\TesteComProprerties.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\obj\Debug\TesteComProprerties.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\obj\Debug\TesteComProprerties.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\TesteComProprerties\TesteComProprerties\obj\Debug\TesteComProprerties.pdb

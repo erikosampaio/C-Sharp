@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\bin\Debug\Matriz.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\bin\Debug\Matriz.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\bin\Debug\Matriz.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\obj\Debug\Matriz.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\obj\Debug\Matriz.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\obj\Debug\Matriz.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\obj\Debug\Matriz.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Matrizes\Matriz\Matriz\obj\Debug\Matriz.pdb

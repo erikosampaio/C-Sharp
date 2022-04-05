@@ -1,0 +1,3 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SintaxeParaIniciarClasse\SintaxeParaIniciarClasse\obj\Debug\SintaxeParaIniciarClasse.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SintaxeParaIniciarClasse\SintaxeParaIniciarClasse\obj\Debug\SintaxeParaIniciarClasse.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SintaxeParaIniciarClasse\SintaxeParaIniciarClasse\obj\Debug\SintaxeParaIniciarClasse.csproj.CoreCompileInputs.cache

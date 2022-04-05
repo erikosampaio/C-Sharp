@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\bin\Debug\List.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\bin\Debug\List.exe
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\bin\Debug\List.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\obj\Debug\List.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\obj\Debug\List.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\obj\Debug\List.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\obj\Debug\List.exe
+D:\Users\Sampaio\ws-vs2022\Prática\List\List\obj\Debug\List.pdb

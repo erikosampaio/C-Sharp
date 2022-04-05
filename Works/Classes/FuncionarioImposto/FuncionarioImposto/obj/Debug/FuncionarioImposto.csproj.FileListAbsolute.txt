@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\bin\Debug\FuncionarioImposto.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\bin\Debug\FuncionarioImposto.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\bin\Debug\FuncionarioImposto.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\obj\Debug\FuncionarioImposto.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\obj\Debug\FuncionarioImposto.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\obj\Debug\FuncionarioImposto.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\obj\Debug\FuncionarioImposto.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\FuncionarioImposto\FuncionarioImposto\obj\Debug\FuncionarioImposto.pdb

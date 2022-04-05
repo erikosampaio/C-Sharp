@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\bin\Debug\PadraoISO8601.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\bin\Debug\PadraoISO8601.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\bin\Debug\PadraoISO8601.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\obj\Debug\PadraoISO8601.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\obj\Debug\PadraoISO8601.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\obj\Debug\PadraoISO8601.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\obj\Debug\PadraoISO8601.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PadraoISO8601\PadraoISO8601\obj\Debug\PadraoISO8601.pdb

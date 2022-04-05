@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\bin\Debug\SituacaoAluno.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\bin\Debug\SituacaoAluno.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\bin\Debug\SituacaoAluno.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\obj\Debug\SituacaoAluno.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\obj\Debug\SituacaoAluno.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\obj\Debug\SituacaoAluno.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\obj\Debug\SituacaoAluno.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\SituacaoAluno\SituacaoAluno\obj\Debug\SituacaoAluno.pdb

@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\bin\Debug\ModificadorParametro.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\bin\Debug\ModificadorParametro.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\bin\Debug\ModificadorParametro.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\obj\Debug\ModificadorParametro.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\obj\Debug\ModificadorParametro.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\obj\Debug\ModificadorParametro.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\obj\Debug\ModificadorParametro.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Vetores\ModificadorParametro\ModificadorParametro\obj\Debug\ModificadorParametro.pdb

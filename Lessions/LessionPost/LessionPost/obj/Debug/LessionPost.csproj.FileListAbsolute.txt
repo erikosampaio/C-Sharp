@@ -1,0 +1,8 @@
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\bin\Debug\LessionPost.exe.config
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\bin\Debug\LessionPost.exe
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\bin\Debug\LessionPost.pdb
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.AssemblyReference.cache
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.SuggestedBindingRedirects.cache
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.CoreCompileInputs.cache
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.exe
+C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.pdb

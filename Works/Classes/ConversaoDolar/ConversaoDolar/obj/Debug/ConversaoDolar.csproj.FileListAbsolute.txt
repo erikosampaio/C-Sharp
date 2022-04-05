@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\bin\Debug\ConversaoDolar.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\bin\Debug\ConversaoDolar.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\bin\Debug\ConversaoDolar.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\obj\Debug\ConversaoDolar.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\obj\Debug\ConversaoDolar.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\obj\Debug\ConversaoDolar.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\obj\Debug\ConversaoDolar.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ConversaoDolar\ConversaoDolar\obj\Debug\ConversaoDolar.pdb

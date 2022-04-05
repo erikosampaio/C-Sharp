@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\bin\Debug\SituacaoProdutoComConstrutor.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\bin\Debug\SituacaoProdutoComConstrutor.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\bin\Debug\SituacaoProdutoComConstrutor.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\obj\Debug\SituacaoProdutoComConstrutor.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\obj\Debug\SituacaoProdutoComConstrutor.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\obj\Debug\SituacaoProdutoComConstrutor.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\obj\Debug\SituacaoProdutoComConstrutor.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\SituacaoProdutoComConstrutor\SituacaoProdutoComConstrutor\obj\Debug\SituacaoProdutoComConstrutor.pdb

@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\bin\Debug\Encapsulamento.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\Encapsulamento\Encapsulamento\obj\Debug\Encapsulamento.pdb

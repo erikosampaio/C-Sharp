@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\bin\Debug\DateTimeKind.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\obj\Debug\LessionDateTimeKind.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\obj\Debug\LessionDateTimeKind.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\obj\Debug\LessionDateTimeKind.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\obj\Debug\DateTimeKind.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTimeKind\DateTimeKind\obj\Debug\DateTimeKind.pdb

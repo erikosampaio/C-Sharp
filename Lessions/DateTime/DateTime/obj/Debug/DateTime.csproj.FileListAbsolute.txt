@@ -1,0 +1,3 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTime\DateTime\obj\Debug\DateTime.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTime\DateTime\obj\Debug\DateTime.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\DateTime\DateTime\obj\Debug\DateTime.csproj.CoreCompileInputs.cache

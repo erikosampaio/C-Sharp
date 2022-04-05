@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\bin\Debug\PropertiesTimeSpan.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\bin\Debug\PropertiesTimeSpan.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\bin\Debug\PropertiesTimeSpan.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\obj\Debug\PropertiesTimeSpan.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\obj\Debug\PropertiesTimeSpan.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\obj\Debug\PropertiesTimeSpan.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\obj\Debug\PropertiesTimeSpan.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\PropertiesTimeSpan\PropertiesTimeSpan\obj\Debug\PropertiesTimeSpan.pdb

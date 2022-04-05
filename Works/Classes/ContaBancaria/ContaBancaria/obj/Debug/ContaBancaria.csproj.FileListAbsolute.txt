@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\bin\Debug\ContaBancaria.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Classes\ContaBancaria\ContaBancaria\obj\Debug\ContaBancaria.pdb

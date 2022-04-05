@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\ModificadorParametroRefOut.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\ModificadorParametroRefOut.exe
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\bin\Debug\ModificadorParametroRefOut.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\ModificadorParametroRefOut.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\ModificadorParametroRefOut.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\ModificadorParametroRefOut.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\ModificadorParametroRefOut.exe
+D:\Users\Sampaio\ws-vs2022\Prática\ModificadorParametroRefOut\ModificadorParametroRefOut\obj\Debug\ModificadorParametroRefOut.pdb

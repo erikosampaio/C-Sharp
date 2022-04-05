@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\bin\Debug\ForEach.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\bin\Debug\ForEach.exe
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\bin\Debug\ForEach.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\obj\Debug\ForEach.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\obj\Debug\ForEach.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\obj\Debug\ForEach.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\obj\Debug\ForEach.exe
+D:\Users\Sampaio\ws-vs2022\Prática\ForEach\ForEach\obj\Debug\ForEach.pdb

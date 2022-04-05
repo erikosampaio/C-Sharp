@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\bin\Debug\Headquaters.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\bin\Debug\Headquaters.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\bin\Debug\Headquaters.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\obj\Debug\Headquaters.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\obj\Debug\Headquaters.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\obj\Debug\Headquaters.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\obj\Debug\Headquaters.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Headquaters\Headquaters\Headquaters\obj\Debug\Headquaters.pdb

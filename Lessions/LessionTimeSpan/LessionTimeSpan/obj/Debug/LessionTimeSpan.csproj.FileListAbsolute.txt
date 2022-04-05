@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\bin\Debug\LessionTimeSpan.exe.config
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\bin\Debug\LessionTimeSpan.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\bin\Debug\LessionTimeSpan.pdb
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\obj\Debug\LessionTimeSpan.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\obj\Debug\LessionTimeSpan.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\obj\Debug\LessionTimeSpan.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\obj\Debug\LessionTimeSpan.exe
+D:\Users\Sampaio\ws-vs2022\PrimeiroProjeto\LessionTimeSpan\LessionTimeSpan\obj\Debug\LessionTimeSpan.pdb

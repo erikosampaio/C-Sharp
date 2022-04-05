@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\bin\Debug\Vetores.exe.config
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\bin\Debug\Vetores.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\bin\Debug\Vetores.pdb
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\obj\Debug\Vetores.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\obj\Debug\Vetores.exe
+D:\Users\Sampaio\ws-vs2022\Atividades\Vetor\Vetores\Vetores\obj\Debug\Vetores.pdb

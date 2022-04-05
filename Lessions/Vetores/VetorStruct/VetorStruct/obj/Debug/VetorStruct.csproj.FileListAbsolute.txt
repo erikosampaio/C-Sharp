@@ -1,0 +1,8 @@
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\obj\Debug\VetorStruct.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\obj\Debug\VetorStruct.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\obj\Debug\VetorStruct.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\bin\Debug\VetorStruct.exe.config
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\bin\Debug\VetorStruct.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\bin\Debug\VetorStruct.pdb
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\obj\Debug\VetorStruct.exe
+D:\Users\Sampaio\ws-vs2022\Prática\Classes\VetorStruct\VetorStruct\obj\Debug\VetorStruct.pdb
