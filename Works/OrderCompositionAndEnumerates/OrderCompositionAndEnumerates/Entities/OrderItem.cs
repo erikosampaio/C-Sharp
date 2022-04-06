@@ -1,6 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
+using System.Collections.Generic;
+
 
 
 namespace OrderCompositionAndEnumerates.Entities
@@ -15,15 +17,27 @@ namespace OrderCompositionAndEnumerates.Entities
         {
         }
 
-        public OrderItem(int quantity, double price)
+        public OrderItem(int quantity, double price, Product product)
         {
             Quantity = quantity;
             Price = price;
+            Product = product;
         }
 
         public double SubTotal()
         {
             return Product.Price * Quantity;
+        }
+
+        public override string ToString()
+        {
+            return Product.Name
+                + ", $"
+                + Price.ToString("F2", CultureInfo.InvariantCulture)
+                + ", Quantity: "
+                + Quantity
+                + ", Subtotal: $"
+                + SubTotal().ToString("F2", CultureInfo.InvariantCulture);
         }
     }
 }

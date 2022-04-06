@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Text;
 using System.Globalization;
 using OrderCompositionAndEnumerates.Entities.Enums;
-using OrderCompositionAndEnumerates.Entities;
 
 namespace OrderCompositionAndEnumerates.Entities
 {
@@ -36,9 +35,9 @@ namespace OrderCompositionAndEnumerates.Entities
             Items.Remove(item);
         }
 
-        public double Total(OrderItem items)
+        public double Total()
         {
-            double soma = items.SubTotal();
+            double soma = 0.0;
             foreach (OrderItem item in Items)
             {
                 soma += item.SubTotal();
@@ -53,20 +52,16 @@ namespace OrderCompositionAndEnumerates.Entities
             sb.AppendLine("ORDER SUMARY:");
             sb.Append("Order moment: ");
             sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
-            sb.Append("Order status: ");
-            sb.AppendLine(Status.ToString());
-            sb.Append("Client: ");
-            sb.Append(Client.Name);
+            sb.AppendLine("Order status: " + Status);
+            sb.Append("Client: " + Client.Name);
             sb.Append(" (" + Client.BirthDate.ToString("dd/MM/yyyy") + ")");
             sb.AppendLine(" - " + Client.Email);
             sb.AppendLine("Order items:");
             foreach (OrderItem item in Items)
             {
-                sb.Append(item.Product.Name);
-                sb.Append(", $" + item.Price.ToString("f2", CultureInfo.InvariantCulture));
-                sb.Append(", Quantity: " + item.Quantity);
-                sb.AppendLine(", Subtotal: $" + item.Price.ToString("f2", CultureInfo.InvariantCulture));
+                sb.AppendLine(item.ToString());
             }
+            sb.AppendLine("Total price: $" + Total().ToString("f2", CultureInfo.InvariantCulture));            
             return sb.ToString();
         }
     }
