@@ -6,3 +6,11 @@ C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debu
 C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.CoreCompileInputs.cache
 C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.exe
 C:\Users\IZZYWAY Tecnologia\Documents\ws-vs2022\LessionPost\LessionPost\obj\Debug\LessionPost.pdb
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\bin\Debug\LessionPost.exe.config
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\bin\Debug\LessionPost.exe
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\bin\Debug\LessionPost.pdb
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.AssemblyReference.cache
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.SuggestedBindingRedirects.cache
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\obj\Debug\LessionPost.csproj.CoreCompileInputs.cache
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\obj\Debug\LessionPost.exe
+D:\Users\Sampaio\ws-vs2022\C-Sharp\Lessions\LessionPost\LessionPost\obj\Debug\LessionPost.pdb

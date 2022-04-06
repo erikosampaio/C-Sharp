@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
+
 
 namespace LessionPost.Entities
 {
@@ -12,7 +11,7 @@ namespace LessionPost.Entities
         public string Title { get; set; }
         public string Content { get; set; }
         public int Likes { get; set; }
-        public List<string> Comments { get; set; } = new List<string>();
+        public List<Comment> Comments { get; set; } = new List<Comment>();
 
         public Post()
         {
@@ -26,17 +25,30 @@ namespace LessionPost.Entities
             Likes = likes;
         }
 
-        // public override string ToString()
-        // {
-        // return Title
-        // + $"\n{Likes} Likes - "
-        // + Moment.ToString()
-        // + $"\n{Content}"
-        // + "Comments:"
-        // // + foreach(Comment comment in Comments)
-        // {
-        // Console.WriteLine(comment);
-        // }
-        // }
+        public void AddComment(Comment comment)
+        {
+            Comments.Add(comment);
+        }
+
+        public void RemoveComment(Comment comment)
+        {
+            Comments.Remove(comment);
+        }
+
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine(Title);
+            sb.Append(Likes);
+            sb.Append(" Likes - ");
+            sb.AppendLine(Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine(Content);
+            sb.AppendLine("Comments:");
+            foreach (Comment comment in Comments)
+            {
+                sb.AppendLine(comment.Text);
+            }
+            return sb.ToString();
+        }
     }
 }
