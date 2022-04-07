@@ -1,4 +1,4 @@
-﻿namespace Heritage.Entities
+﻿namespace CastingAndDowncasting.Entities
 {
     class BusinessAccount : Account
     {
@@ -9,9 +9,9 @@
         }
 
         public BusinessAccount(int number, string holder, double balance, double loanLimit)
-            : base(number, holder, balance) // Linha que herda o construtor da superclasse (Account)
+            : base(number, holder, balance)
         {
-            LoanLimit = loanLimit; // Acrescentando mais um atributo para o contrutor da classe BusinessAccount
+            LoanLimit = loanLimit;
         }
 
         public void Loan(double amount)
