@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Globalization;
 
 namespace SummaryCSV
 {
@@ -7,24 +8,36 @@ namespace SummaryCSV
     {
         static void Main(string[] args)
         {
-            //abrir arquivo
-            //instanciar itens de venda do arquivo
-            //criar uma subpasta out/summry.csv
-            string path = @"D:\Users\Sampaio\ws-vs2022\C-Sharp\Works\SummaryCSV\file1.csv";
+            
+            Console.WriteLine("Enter file full path: ");
+            string sourceFilePath = Console.ReadLine();            
 
             try
             {
-                //ler o arquivo
-                string[] lines = File.ReadAllLines(path);
-                using (StreamReader sr = File.OpenText(path))
-                {
-                    while (!sr.EndOfStream)
-                    {
+                string[] lines = File.ReadAllLines(sourceFilePath);
 
+                string sourceFolderPath = Path.GetDirectoryName(sourceFilePath);
+                string targetFolderPath = sourceFolderPath + @"\out";
+                string targetFilePath = targetFolderPath + @"\summary.csv";
+
+                Directory.CreateDirectory(targetFolderPath);
+
+                using (StreamWriter sw = File.AppendText(targetFilePath))
+                {
+                    foreach (string line in lines)
+                    {
+                        string[] fields = line.Split(',');
+                        string name = fields[0];
+                        double price = double.Parse(fields[1], CultureInfo.InvariantCulture);
+                        int quantity = int.Parse(fields[2]);
+
+                        Product prod = new Product(name, price, quantity);
+
+                        sw.WriteLine(prod.Name + "," + prod.Total().ToString("f2", CultureInfo.InvariantCulture));
                     }
                 }
             }
-            catch (Exception ex)
+            catch (IOException ex)
             {
                 Console.WriteLine("An error ocurred!");
                 Console.WriteLine(ex.Message);
