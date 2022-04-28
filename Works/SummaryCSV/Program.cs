@@ -8,9 +8,9 @@ namespace SummaryCSV
     {
         static void Main(string[] args)
         {
-            
+
             Console.WriteLine("Enter file full path: ");
-            string sourceFilePath = Console.ReadLine();            
+            string sourceFilePath = Console.ReadLine();
 
             try
             {
